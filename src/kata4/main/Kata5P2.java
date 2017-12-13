@@ -8,11 +8,11 @@ import kata4.view.HistogramDisplay;
 import kata4.view.MailHistogramBuilder;
 import kata4.view.MailListReader;
 
-public class Kata4 {
+public class Kata5P2 {
 
     public static void main(String[] args) throws IOException, Exception {
-        Kata4 kata4 = new Kata4();
-        kata4.execute();
+        Kata5P2 kata5P2 = new Kata5P2();
+        kata5P2.execute();
     }
     
     private ArrayList <Mail> mailList;
